@@ -1,0 +1,16 @@
+C:\Users\Андрей\RiderProjects\Parallel4\bin\Debug\net5.0\Parallel4.exe
+C:\Users\Андрей\RiderProjects\Parallel4\bin\Debug\net5.0\Parallel4.deps.json
+C:\Users\Андрей\RiderProjects\Parallel4\bin\Debug\net5.0\Parallel4.runtimeconfig.json
+C:\Users\Андрей\RiderProjects\Parallel4\bin\Debug\net5.0\Parallel4.runtimeconfig.dev.json
+C:\Users\Андрей\RiderProjects\Parallel4\bin\Debug\net5.0\Parallel4.dll
+C:\Users\Андрей\RiderProjects\Parallel4\bin\Debug\net5.0\ref\Parallel4.dll
+C:\Users\Андрей\RiderProjects\Parallel4\bin\Debug\net5.0\Parallel4.pdb
+C:\Users\Андрей\RiderProjects\Parallel4\obj\Debug\net5.0\Parallel4.csproj.AssemblyReference.cache
+C:\Users\Андрей\RiderProjects\Parallel4\obj\Debug\net5.0\Parallel4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\RiderProjects\Parallel4\obj\Debug\net5.0\Parallel4.AssemblyInfoInputs.cache
+C:\Users\Андрей\RiderProjects\Parallel4\obj\Debug\net5.0\Parallel4.AssemblyInfo.cs
+C:\Users\Андрей\RiderProjects\Parallel4\obj\Debug\net5.0\Parallel4.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\RiderProjects\Parallel4\obj\Debug\net5.0\Parallel4.dll
+C:\Users\Андрей\RiderProjects\Parallel4\obj\Debug\net5.0\ref\Parallel4.dll
+C:\Users\Андрей\RiderProjects\Parallel4\obj\Debug\net5.0\Parallel4.pdb
+C:\Users\Андрей\RiderProjects\Parallel4\obj\Debug\net5.0\Parallel4.genruntimeconfig.cache
